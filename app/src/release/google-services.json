@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "798665353967",
+    "firebase_url": "https://naska-cd3de.firebaseio.com",
+    "project_id": "naska-cd3de",
+    "storage_bucket": "naska-cd3de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798665353967:android:7f8b3d6c4ffb61ee",
+        "android_client_info": {
+          "package_name": "com.tech.naska.shopinglist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798665353967-rlhpp31sngm3t8mof956rmo43pc1vmsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ-DPo4Q4hLwUfwk5R0yuT8bXVdfiW52A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
