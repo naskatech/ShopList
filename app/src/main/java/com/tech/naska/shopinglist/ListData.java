@@ -9,4 +9,6 @@ package com.tech.naska.shopinglist;
     public String textItem ;
     //値段
     public  String  textPrice ;
+    //入力値
+    public String editText;
 }

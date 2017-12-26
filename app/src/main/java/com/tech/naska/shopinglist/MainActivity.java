@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
             listData.textItem = "アイテム名";
             //textPriceはintに変換する。
             listData.textPrice = "値段";
-
+            listData.editText = "";
             mListData.add(listData);
         }
     }
